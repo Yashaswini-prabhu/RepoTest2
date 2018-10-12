@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2E72-E787
+
+ Directory of C:\Users\ADMIN\Desktop\MyGit
+
+11-Oct-18  09:42 PM    <DIR>          .
+11-Oct-18  09:42 PM    <DIR>          ..
+11-Oct-18  09:42 PM                 0 testfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  10,204,704,768 bytes free
